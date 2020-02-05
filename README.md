@@ -1,3 +1,3 @@
-# github-example
-an exercise
+## github-example
+# an exercise
 first public github content!
